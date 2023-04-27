@@ -3,3 +3,4 @@
   <img height="173" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letengzz&layout=compact" />
 </div>
 <div align="center"><img src="https://raw.githubusercontent.com/letengzz/letengzz/main/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/letengzz/letengzz/assets/github-contribution-grid-snake.svg" /></div>
